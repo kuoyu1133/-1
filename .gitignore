@@ -1,0 +1,25 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Rider / VS / VSCode
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+.idea/
+.vscode/
+
+# Unity generated
+*.unitypackage
+
+# Python (你有 venv)
+venv/
+results/
