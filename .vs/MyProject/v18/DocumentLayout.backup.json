@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\myproject\\myproject\\assets\\script\\csvtraininglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\csvtraininglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\myproject\\myproject\\assets\\script\\statrowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statrowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\myproject\\myproject\\assets\\script\\resourcesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resourcesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\countrydetailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countrydetailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\tradesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tradesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\countryaiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countryaiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\rulebasedcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rulebasedcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\countrystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countrystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\moralesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\moralesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\announcementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\announcementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\battleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\worldgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\worldgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\trustsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trustsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\testagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\testagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\policysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\policysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\occupationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\occupationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\MyProject\\MyProject\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\myproject\\myproject\\assets\\script\\resourcesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resourcesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\myproject\\myproject\\assets\\script\\statrowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{306B9622-6474-0D19-83D7-B08F35872B12}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statrowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSVTrainingLogger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\CSVTrainingLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CSVTrainingLogger.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\CSVTrainingLogger.cs",
+              "RelativeToolTip": "Assets\\Script\\CSVTrainingLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:32:13.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatRowUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\StatRowUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StatRowUI.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\StatRowUI.cs",
+              "RelativeToolTip": "Assets\\Script\\StatRowUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StatRowUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\StatRowUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StatRowUI.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\StatRowUI.cs",
+              "RelativeToolTip": "Assets\\Script\\StatRowUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourceSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\ResourceSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ResourceSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\ResourceSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ResourceSystem.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwI8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResourceSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\ResourceSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ResourceSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\ResourceSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ResourceSystem.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAjwHIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryDetailManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\CountryDetailManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CountryDetailManager.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\CountryDetailManager.cs",
+              "RelativeToolTip": "Assets\\Script\\CountryDetailManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryAIAgent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\CountryAIAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CountryAIAgent.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\CountryAIAgent.cs",
+              "RelativeToolTip": "Assets\\Script\\CountryAIAgent.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAOQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALLSURBVDhP7ZNdSFNhGMf/73vO2ea209zmNPEiQzhbUlGwJKJ54\u002BiD8CLwKlIhIW/DSXkjOLoyiEUQRHdGJIFdaCYNvSjvHOeitmU5rSzMPHOrs7bUfbzndHVEA6\u002Biu35XDzz/58cD7/sA//lbOKNIKkl725U2t3BSEIWAIDrOOsRDFw\u002BJLZ0tpvmx\u002BU0AUFXVaT9vd64dWTOlo\u002Blif3\u002B/J\u002BPP7Ntq3cL61HoJAKghrBQrvaRCZE3Q5ApfkRmYTDkq8\u002BAjRoaBRUy6SWYcixQKhZqiVnyhQZNZhfUaGQIA8S/xwelP05ffKG8kM29Gs6cZNsEGpjOUWGmy\u002B3B3FwOL3I3dPTf7Zbbuc\u002B6zYubN8WP7jwWWvi9Zfmz\u002BSFFKH6WupW5SAIh9i534qH6UNF3DmYNnCkfrjt4\u002BXnc8LLmkcK21dtThcJQ1XUvUi/U5j80DQkiuiq\u002BK\u002B9y\u002BsmgSQUBWCcgHY0t0jHZMXHpySQ9Ph5V8Pv9QVVXXdnMH2Z/ZiVuvbulSRHqWLqTrs7ns156nPbo34h0yMhQAFrOLMHNmOKucMVEUu6qrq7/vFOm6TvP5fG3mV8ayUdoAAMv9ufu1SkHhiqwIHbq9\u002BXaza1vIUx485SFQYadnG\u002BMB7szdCYy9G0NZK58eeT0S7RzvrJFXZTCdXWUci8AQNogN2KxsIp6O/\u002BkCANhsthx03GiX2uOtB1rBES7R5G66PnBqIOd1e0FAJjWm3QMAHgCCB4N4u/4Wi9lFKfQ8NBRsDMJusSOzkYGSV1KU0scAprNqtiahJLwc5VLR7uhERs14pj5MiRzhXi70LcRgfJu55bnB6FL0cjKdlFxWF3xuH6yCFWWtjCIrTvYF\u002Btr/WHpPiFHMLMyEltXl0Pj7cazkV8BRDk3OJjTua5wZvjDctXtsb7YvxaJZHqAMPykTP3T4GWN\u002BohN/iStd2z3yn3/Nb0PjNWfDy7QfAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-05T02:29:44.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RuleBasedCountry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\RuleBasedCountry.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RuleBasedCountry.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\RuleBasedCountry.cs",
+              "RelativeToolTip": "Assets\\Script\\RuleBasedCountry.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAAwEEBAAAeAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALLSURBVDhP7ZNdSFNhGMf/73vO2ea209zmNPEiQzhbUlGwJKJ54\u002BiD8CLwKlIhIW/DSXkjOLoyiEUQRHdGJIFdaCYNvSjvHOeitmU5rSzMPHOrs7bUfbzndHVEA6\u002Biu35XDzz/58cD7/sA//lbOKNIKkl725U2t3BSEIWAIDrOOsRDFw\u002BJLZ0tpvmx\u002BU0AUFXVaT9vd64dWTOlo\u002Blif3\u002B/J\u002BPP7Ntq3cL61HoJAKghrBQrvaRCZE3Q5ApfkRmYTDkq8\u002BAjRoaBRUy6SWYcixQKhZqiVnyhQZNZhfUaGQIA8S/xwelP05ffKG8kM29Gs6cZNsEGpjOUWGmy\u002B3B3FwOL3I3dPTf7Zbbuc\u002B6zYubN8WP7jwWWvi9Zfmz\u002BSFFKH6WupW5SAIh9i534qH6UNF3DmYNnCkfrjt4\u002BXnc8LLmkcK21dtThcJQ1XUvUi/U5j80DQkiuiq\u002BK\u002B9y\u002BsmgSQUBWCcgHY0t0jHZMXHpySQ9Ph5V8Pv9QVVXXdnMH2Z/ZiVuvbulSRHqWLqTrs7ns156nPbo34h0yMhQAFrOLMHNmOKucMVEUu6qrq7/vFOm6TvP5fG3mV8ayUdoAAMv9ufu1SkHhiqwIHbq9\u002BXaza1vIUx485SFQYadnG\u002BMB7szdCYy9G0NZK58eeT0S7RzvrJFXZTCdXWUci8AQNogN2KxsIp6O/\u002BkCANhsthx03GiX2uOtB1rBES7R5G66PnBqIOd1e0FAJjWm3QMAHgCCB4N4u/4Wi9lFKfQ8NBRsDMJusSOzkYGSV1KU0scAprNqtiahJLwc5VLR7uhERs14pj5MiRzhXi70LcRgfJu55bnB6FL0cjKdlFxWF3xuH6yCFWWtjCIrTvYF\u002Btr/WHpPiFHMLMyEltXl0Pj7cazkV8BRDk3OJjTua5wZvjDctXtsb7YvxaJZHqAMPykTP3T4GWN\u002BohN/iStd2z3yn3/Nb0PjNWfDy7QfAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-05T02:29:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\CountryStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CountryStateManager.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\CountryStateManager.cs",
+              "RelativeToolTip": "Assets\\Script\\CountryStateManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDUAAAA0AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALLSURBVDhP7ZNdSFNhGMf/73vO2ea209zmNPEiQzhbUlGwJKJ54\u002BiD8CLwKlIhIW/DSXkjOLoyiEUQRHdGJIFdaCYNvSjvHOeitmU5rSzMPHOrs7bUfbzndHVEA6\u002Biu35XDzz/58cD7/sA//lbOKNIKkl725U2t3BSEIWAIDrOOsRDFw\u002BJLZ0tpvmx\u002BU0AUFXVaT9vd64dWTOlo\u002Blif3\u002B/J\u002BPP7Ntq3cL61HoJAKghrBQrvaRCZE3Q5ApfkRmYTDkq8\u002BAjRoaBRUy6SWYcixQKhZqiVnyhQZNZhfUaGQIA8S/xwelP05ffKG8kM29Gs6cZNsEGpjOUWGmy\u002B3B3FwOL3I3dPTf7Zbbuc\u002B6zYubN8WP7jwWWvi9Zfmz\u002BSFFKH6WupW5SAIh9i534qH6UNF3DmYNnCkfrjt4\u002BXnc8LLmkcK21dtThcJQ1XUvUi/U5j80DQkiuiq\u002BK\u002B9y\u002BsmgSQUBWCcgHY0t0jHZMXHpySQ9Ph5V8Pv9QVVXXdnMH2Z/ZiVuvbulSRHqWLqTrs7ns156nPbo34h0yMhQAFrOLMHNmOKucMVEUu6qrq7/vFOm6TvP5fG3mV8ayUdoAAMv9ufu1SkHhiqwIHbq9\u002BXaza1vIUx485SFQYadnG\u002BMB7szdCYy9G0NZK58eeT0S7RzvrJFXZTCdXWUci8AQNogN2KxsIp6O/\u002BkCANhsthx03GiX2uOtB1rBES7R5G66PnBqIOd1e0FAJjWm3QMAHgCCB4N4u/4Wi9lFKfQ8NBRsDMJusSOzkYGSV1KU0scAprNqtiahJLwc5VLR7uhERs14pj5MiRzhXi70LcRgfJu55bnB6FL0cjKdlFxWF3xuH6yCFWWtjCIrTvYF\u002Btr/WHpPiFHMLMyEltXl0Pj7cazkV8BRDk3OJjTua5wZvjDctXtsb7YvxaJZHqAMPykTP3T4GWN\u002BohN/iStd2z3yn3/Nb0PjNWfDy7QfAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-05T02:29:44.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TradeSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\TradeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TradeSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\TradeSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\TradeSystem.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BattleResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\BattleResult.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BattleResult.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\BattleResult.cs",
+              "RelativeToolTip": "Assets\\Script\\BattleResult.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwE0AAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoraleSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\MoraleSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MoraleSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\MoraleSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\MoraleSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestAgent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\TestAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TestAgent.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\TestAgent.cs",
+              "RelativeToolTip": "Assets\\Script\\TestAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PolicySystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\PolicySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PolicySystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\PolicySystem.cs",
+              "RelativeToolTip": "Assets\\Script\\PolicySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OccupationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\OccupationSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\OccupationSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\OccupationSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\OccupationSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorldGraph.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\WorldGraph.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WorldGraph.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\WorldGraph.cs",
+              "RelativeToolTip": "Assets\\Script\\WorldGraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnnouncementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\AnnouncementSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AnnouncementSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\AnnouncementSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\AnnouncementSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrustSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\TrustSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TrustSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyProject\\MyProject\\Assets\\Script\\TrustSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\TrustSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:29:44.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

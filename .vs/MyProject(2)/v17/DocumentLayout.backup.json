@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Project\\MyProject(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|d:\\unity\\project\\myproject(2)\\assets\\script\\playercountrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercountrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|d:\\unity\\project\\myproject(2)\\assets\\script\\countryacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countryacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|d:\\unity\\project\\myproject(2)\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|d:\\unity\\project\\myproject(2)\\assets\\script\\rulebasedcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rulebasedcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|D:\\Unity\\Project\\MyProject(2)\\assets\\script\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|D:\\Unity\\Project\\MyProject(2)\\assets\\script\\resourcesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resourcesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|D:\\Unity\\Project\\MyProject(2)\\assets\\script\\countryaiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countryaiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|D:\\Unity\\Project\\MyProject(2)\\assets\\script\\policysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\policysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|d:\\unity\\project\\myproject(2)\\assets\\script\\tradesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA91561-62AB-8AB4-8FB0-7CBBF191D100}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tradesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryAController.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\CountryAController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CountryAController.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\CountryAController.cs",
+              "RelativeToolTip": "Assets\\Script\\CountryAController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:02:06.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerCountryController.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\PlayerCountryController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCountryController.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\PlayerCountryController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerCountryController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA7wHEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:45:41.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:12:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\LogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LogManager.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\LogManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LogManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:16:23.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TradeSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\TradeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TradeSystem.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\TradeSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\TradeSystem.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAowAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:03:03.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RuleBasedCountry.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\RuleBasedCountry.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RuleBasedCountry.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\RuleBasedCountry.cs",
+              "RelativeToolTip": "Assets\\Script\\RuleBasedCountry.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:54:33.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryAIAgent.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\CountryAIAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CountryAIAgent.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\CountryAIAgent.cs",
+              "RelativeToolTip": "Assets\\Script\\CountryAIAgent.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAnwHAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:41:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolicySystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\PolicySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PolicySystem.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\PolicySystem.cs",
+              "RelativeToolTip": "Assets\\Script\\PolicySystem.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwEQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:47:38.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\ResourceSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ResourceSystem.cs",
+              "ToolTip": "D:\\Unity\\Project\\MyProject(2)\\Assets\\Script\\ResourceSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ResourceSystem.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:43:52.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
